@@ -35,7 +35,7 @@ You should see "Your branch is up to date with the 'origin/master', and "nothing
 ```
 The first status should report that files have changed or been added and needs to be committed. The second status should say "nothing to commit." The third status should report "Your branch is up to date with the 'origin/master', and "nothing to commit"  
 
-**When you are done with the assignemnt and ready for the professor to grade**, issue the following command with the commit message **"Ready for grading"**: 
+**When you are done with the assignemnt and ready for the professor to grade**, issue the following command with the commit message **"Ready for grading"**. The professor will see your comment and grade the assignment. 
 ```bash
  git add -A  
  git commit -m "Ready for grading" 
