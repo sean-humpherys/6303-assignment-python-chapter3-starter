@@ -1,4 +1,4 @@
-# H1 6303_assignment_python_chapter3  
+# 6303_assignment_python_chapter3  
 The instructions for this assignment can be found at   
 [https://docs.google.com/document/d/14mqVAgStFlU4nxMCBfCJmObA5P-03iKp79fuugHtg0s/edit#](https://docs.google.com/document/d/14mqVAgStFlU4nxMCBfCJmObA5P-03iKp79fuugHtg0s/edit#)  
 app.py,  payroll.py, and birthstone.py are blank files ready for you to edit and add code according to the assignment instructions.  
@@ -6,9 +6,9 @@ app.py,  payroll.py, and birthstone.py are blank files ready for you to edit and
 GIT Commands:   
 At the start of your coding session each day, you should issue the following command to verify you have the latest changes to the online-repository or to pull down any changes/comments made by the professor:   
 '''  
-git pull  
-git status   #Should see "Your branch is up to date with the 'origin/master', and "nothing to commit"  
-'''  
+`git pull ` 
+`git status `  #Should see "Your branch is up to date with the 'origin/master', and "nothing to commit"  
+ 
 
 At the end of each day (or after your class) you should run these commands to upload your changes to your online repository. The professor can see your changes:   
 '''
