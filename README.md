@@ -6,7 +6,7 @@ app.py,  payroll.py, and birthstone.py are blank files ready for you to edit and
 ## Useful GIT Commands:  
 Use the terminal or command line to issue git commands. 
   
-**Typically, only configure your computer one time**, unless you want to edit your name or email address in the future or change computers. Git saves this info on your computer. Substitute your name and email address. This info will be used to log who made what changes to code.
+**Typically, only configure your settings one time per computer**, unless you want to edit your name or email address in the future or change computers. Git saves this info on your computer. Substitute your name and email address. This info will be used to log who made what changes to code.
 ```
  git config --global user.name "Sean Humpherys" 
  git config --global user.email shumpherys@wtamu.edu
