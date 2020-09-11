@@ -3,6 +3,14 @@ The instructions for this assignment can be found at
 (https://docs.google.com/document/d/14mqVAgStFlU4nxMCBfCJmObA5P-03iKp79fuugHtg0s/edit#)  
 app.py,  payroll.py, and birthstone.py are blank files ready for you to edit and add code according to the assignment instructions.  
 
+## How to run Python apps
+Open a terminal in VS Code from Terminal Menu, New Terminal. Type one of the following commands. 
+```
+  python app.py
+  python payroll.py
+  python birthstone.py
+```
+
 ## Useful GIT Commands:  
 Use the terminal or command line to issue git commands. 
   
