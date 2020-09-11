@@ -12,9 +12,9 @@ Use the terminal or command line to issue git commands.
  git config --global user.email shumpherys@wtamu.edu
 ```
 
-**To clone an assignment the first time, follow these commands.** Do this command for each assignment. Or, if you use multiple computers (work, home, school) do this once per computer per assignment.
+**To clone an assignment the first time, follow these commands.** Do this command for each assignment. Or, if you use multiple computers (work, home, school) do this once per computer per assignment. The URL to your assignment respository is found under the [Code] button and "Clone with HTTPS". 
 ```bash
- git clone https://something.something  #use the URL to your specific assignment respository on github.com
+ git clone https://github.com/username/something  #use the URL to your specific assignment respository on github.com
  ```
 
 **At the start of your coding session each day**, you should issue the following command to verify you have the latest changes to the online-repository or to pull down any changes/comments made by the professor:     
