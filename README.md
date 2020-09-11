@@ -4,14 +4,14 @@ The instructions for this assignment can be found at
 app.py,  payroll.py, and birthstone.py are blank files ready for you to edit and add code according to the assignment instructions.  
 
 GIT Commands:   
-At the start of your coding session each day, you should issue the following command to verify you have the latest changes to the online-repository or to pull down any changes/comments made by the professor:     
+**At the start of your coding session each day**, you should issue the following command to verify you have the latest changes to the online-repository or to pull down any changes/comments made by the professor:     
 ```bash
  git pull  
  git status 
 ```
 You should see "Your branch is up to date with the 'origin/master', and "nothing to commit"    
  
-At the end of each day (or after your class) you should run these commands to upload your changes to your online repository. The professor can see your changes:     
+**At the end of each day (or after your class) you should run these commands** to upload your changes to your online repository. The professor can see your changes:     
 ```bash
  git add -A
  git status    
@@ -20,9 +20,9 @@ At the end of each day (or after your class) you should run these commands to up
  git push
  git status   
 ```
-The first status should report that files that have changed or new and need to be committed. The second status should say "nothing to commit." The third status should report "Your branch is up to date with the 'origin/master', and "nothing to commit"  
+The first status should report that files have changed or been added and needs to be committed. The second status should say "nothing to commit." The third status should report "Your branch is up to date with the 'origin/master', and "nothing to commit"  
 
-When you are done with the assignemnt and ready for the professor to grade, issue the following command with the commit message "Ready for grading": 
+**When you are done with the assignemnt and ready for the professor to grade**, issue the following command with the commit message **"Ready for grading"**: 
 ```bash
  git add -A  
  git commit -m "Ready for grading" 
