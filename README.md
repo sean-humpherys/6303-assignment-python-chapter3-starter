@@ -15,10 +15,7 @@ Use the terminal or command line to issue git commands.
 **To clone an assignment the first time, follow these commands.** Do this command for each assignment. Or, if you use multiple computers (work, home, school) do this once per computer per assignment.
 ```bash
  git clone https://something.something  #use the URL to your specific assignment respository on github.com
- git status
  ```
-You should see "Your branch is up to date with the 'origin/master'
-
 
 **At the start of your coding session each day**, you should issue the following command to verify you have the latest changes to the online-repository or to pull down any changes/comments made by the professor:     
 ```bash
