@@ -1,4 +1,2 @@
-#Follow the instructions to code an app that will tell a user their birthstone
-
-
-
+# Follow the assignment instructions to code an app that
+# will tell a user their birthstone.
