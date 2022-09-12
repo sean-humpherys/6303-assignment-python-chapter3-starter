@@ -3,13 +3,13 @@ In VS Code, press Ctrl+Shift+V to preview this README.md file or Cmd+Shift+V on 
 # 6303_assignment_python_chapter3  
 The instructions for this assignment can be found at   
 (https://docs.google.com/document/d/14mqVAgStFlU4nxMCBfCJmObA5P-03iKp79fuugHtg0s/edit#)  
-app.py and birthstone.py are blank files ready for you to edit and add code according to the assignment instructions.  
+app.py and shipping.py are blank files ready for you to edit and add code according to the assignment instructions.  
 
 ## How to run Python apps
 Open a terminal in VS Code from Terminal Menu, New Terminal. Type one of the following commands. 
 ```
   python app.py
-  python birthstone.py
+  python shipping.py
 ```
 
 ## Useful GIT Commands:  
